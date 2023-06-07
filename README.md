@@ -12,3 +12,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+#Deployed and verified
+
+https://sepolia.etherscan.io/address/0x39731Ab62de65e1a2543A52b1Ec52E428113942F#code
